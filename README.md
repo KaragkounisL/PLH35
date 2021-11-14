@@ -1,4 +1,4 @@
-# PLH35_GE1
+# PLH35
 
 Hellenic Open University
 School of Science & Technology
