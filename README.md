@@ -1,7 +1,9 @@
 # PLH35
 
 Hellenic Open University
+
 School of Science & Technology
+
 Computer Science
 
 Computer Systems Security - PLH35   
